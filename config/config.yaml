@@ -128,6 +128,10 @@ rss:
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
 
+    - id: "cnblogs"
+      name: "博客园"
+      url: "https://feed.cnblogs.com/news/rss"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
